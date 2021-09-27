@@ -10,7 +10,7 @@ In Medium, it is not easily to categorize my writing. So I use MkDocs for Github
 
 * Software Development Experiences
 * Mobile Development Learnings
-* Tips of Medium Blogging
-* Some Personal Relection
+* Medium Blogging Learning
+* Some Personal Reflection
 
 ️️✉️ - To received update to my writing, you can **[subscribe to email update](https://elye-project.medium.com/subscribe)**. Optionally, you can also follow me on **[Twitter](https://twitter.com/elye_project)**
