@@ -1,0 +1,12 @@
+site_name: Elye Blog
+site_url: https://elye-project.medium.com/subscribe
+theme:
+  name: "material"
+  logo: "images/logo.png"
+  font:
+    text: "Museo Sans"
+repo_url: https://github.com/elye/blog
+extra_css:
+  - "stylesheets/extra.css"
+nav:
+  - Home: index.md
