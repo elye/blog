@@ -1,6 +1,8 @@
 # Elye's Blog
 
-Welcome to Elye's Blog Collection Page
+Welcome to Elye's Blog Collection Page.
+
+I have been
 
 It's a collection all blogs I've writen on [Medium](https://elye-project.medium.com/). 
 
@@ -9,7 +11,7 @@ In Medium, it is not easily to categorize my writing. So I use MkDocs for Github
 ### I write mainly on
 
 * [Software Development Experiences](./software-dev-exp.md)
-* [Mobile Development Learnings](./mobile-dev-learn.md)
+* [Mobile Development Learnings](./mobile-dev/general.md)
 * [Medium Blogging Learning](./medium-blog-learn.md)
 * [Some Personal Reflection](./personal-reflection.md)
 

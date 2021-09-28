@@ -11,6 +11,10 @@ extra_css:
 nav:
   - Home: index.md
   - Software Development Experiences: software-dev-exp.md
-  - Mobile Development Learning: mobile-dev-learn.md
+  - Mobile Development Learning:
+    - General: mobile-dev/general.md
+    - Kotlin: mobile-dev/kotlin.md
+    - Android: mobile-dev/android.md
+    - iOS: mobile-dev/ios.md
   - Medium Blogging Learning: medium-blog-learn.md
   - Some Personal Reflection: personal-reflection.md
